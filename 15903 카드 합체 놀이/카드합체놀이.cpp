@@ -44,7 +44,3 @@ int main()
 
 	return 0;
 }
-
-git remote add origin https://github.com/yeonjae1220/bj_cpp_study.git
-git branch -M main
-git push -u origin main
